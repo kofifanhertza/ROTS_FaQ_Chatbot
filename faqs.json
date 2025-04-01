@@ -1,0 +1,311 @@
+{
+    "faq_categories": [
+      {
+        "category": "M-Kofkom Mobile App",
+        "subcategories": [
+          {
+            "title": "Jaga Pulsa & Jaga Tagihan",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Tentang Fitur Jaga Pulsa/Jaga Tagihan",
+                "answer": "Jaga Pulsa/Jaga Tagihan adalah fitur yang tedapat di aplikasi. M-Kofkom untuk menghindari penggunaan pulsa/tagihan untuk akses internet non paket. Dengan kata lain, ketika pelanggan sedang tidak berlangganan paket internet atau kehabisan kuota internet maka pulsa pelanggan tidak akan terpakai untuk akses internet baik di dalam negeri (domestik) atau di luar negeri (internasional). Jaga Pulsa adalah nama fitur untuk pelanggan kofkom PraBayar dan Jaga Tagihan adalah nama fitur untuk pelanggan kofkom Halo."
+              },
+              {
+                "type": "question",
+                "title": "Siapa saja yang dapat mengaktifkan fitur Jaga Pulsa/Jaga Tagihan?",
+                "answer": "Seluruh pelanggan kofkom dapat mengaktifkan fitur Jaga Pulsa/Jaga Tagihan di aplikasi M-Kofkom."
+              },
+              {
+                "type": "statement",
+                "title": "Versi M-Kofkom yang kompatibel untuk fitur Jaga Pulsa/Jaga Tagihan?",
+                "answer": "Fitur Jaga Pulsa/Jaga Tagihan dapat diakses melalui:Perangkat Android: Aplikasi M-Kofkom minimal versi 6.9.0. Perangkat iOS: Aplikasi M-Kofkom minimal versi 6.9.1"
+              },
+              {
+                "type": "statement",
+                "title": "Keunggulan fitur Jaga Pulsa/Jaga Tagihan",
+                "answer": "Pulsa tidak akan terpakai untuk layanan internet non paket. Pelanggan tidak dapat terkoneksi internet saat tidak memiliki paket data aktif. Fitur Jaga Pulsa/Jaga Tagihan berlaku untuk penggunaan internet di dalam negeri (domestik) atau di luar negeri (internasional)."
+              },
+              {
+                "type": "statement",
+                "title": "Cara mengaktifkan fitur Jaga Pulsa/Jaga Tagihan",
+                "answer": "Update aplikasi M-Kofkom melalui App Store/Google Play Store. Pastikan aplikasi sudah terupdate ke minimal versi 6.9.0 untuk Android atau versi 6.9.1 untuk iOS. Pilih opsi “Menu” di dashboard M-Kofkom. Pilih opsi “Jaga Pulsa” atau “Jaga Tagihan”.Pilih opsi aktivasi Jaga Pulsa/Jaga Tagihan untuk penggunaan dalam negeri (domestik) atau di luar negeri (internasional)."
+              },
+              {
+                "type": "statement",
+                "title": "Tarif menggunakan fitur Jaga Pulsa/Jaga Tagihan",
+                "answer": "Jaga Pulsa/Jaga Tagihan merupakan fitur terbaru di aplikasi M-Kofkom sehingga fitur ini tidak dikenakan biaya untuk mengaktifkan maupun biaya penggunaan."
+              },
+              {
+                "type": "question",
+                "title": "Bagaimana jika pelanggan ingin mengakses internet namun tidak memiliki paket data dan fitur Jaga Pulsa/Jaga Tagihan aktif?",
+                "answer": "Selama fitur aktif, pelanggan tidak dapat mengakses internet jika tidak memiliki paket data atau kuota internet. Pelanggan dapat menonaktifkan fitur Jaga Pulsa/Jaga Tagihan untuk mengakses internet menggunakan tagihan/pulsa yang dimiliki."
+              }
+              
+            ]
+          },
+          {
+            "title": "Tidak dapat menggunakan e-wallet",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Pilihan pembayaran e-wallet tidak tersedia",
+                "answer": "Bagi pengguna aplikasi M-Kofkom, Anda dapat membeli pulsa, paket, atau bayar tagihan melalui aplikasi dengan beragam metode pembayaran, termasuk melalui dompet digital atau e-wallet. Ada beragam dompet digital atau e-wallet yang bisa digunakan untuk membayar pulsa, paket, atau tagihan Halo Anda di aplikasi M-Kofkom. Namun dalam beberapa kasus, ditemukan pelanggan yang tidak dapat membayar melalui dompet digital atau e-wallet. Jika sedang mengalami kendala tersebut, Anda tidak perlu khawatir. Pastikan terlebih dahulu hal-hal berikut: 1. Pastikan kembali nominal pengisian pulsa atau paket data agar dapat menggunakan pembayaran melalui e-wallet. Pada aplikasi M-Kofkom, tidak semua nominal pulsa dan paket data memiliki opsi pembayaran menggunakan dompet digital. Hanya pembelian nominal tertentu saja yang dapat menggunakan pembayaran dengan e-wallet. 2. Anda menggunakan aplikasi M-Kofkom yang belum diperbarui. Segera lakukan pembaruan terkini aplikasi Anda dan pastikan Anda selalu berada di wilayah dengan jaringan internet stabil. 3. Sistem operasi ponsel yang digunakan tidak mendukung pembaruan aplikasi M-Kofkom. Untuk dapat menikmati layanan terbaru dari aplikasi M-Kofkom, pastikan ponsel Anda memiliki sistem operasi minimal Android 7 (Nougat) atau iOS 11. 4. Anda dapat membersihkan cache aplikasi dan melakukan instalasi/pemasangan ulang. 5. Sistem sedang sibuk/bermasalah. Ini sangat mungkin terjadi apabila di wilayah Anda sedang terjadi gangguan, misalnya pemadaman listrik. Jika sudah memastikan hal-hal di atas namun e-wallet masih belum tersedia, Anda dapat segera menghubungi Call Center 999. Pastikan Anda juga melampirkan informasi detail terkait kendala yang dihadapi, seperti nomor yang digunakan, ponsel, dan sistem operasi yang digunakan."
+              },
+              {
+                "type": "statement",
+                "title": "Saldo e-wallet sudah terpotong, namun kuota/pulsa belum masuk",
+                "answer": "Untuk memudahkan Anda dalam memenuhi kebutuhan akan kuota/pulsa, kini selain pembelian melalui ATM, pembelian kuota/pulsa juga bisa dilakukan melalui aplikasi M-Kofkom, aplikasi khusus untuk pemilik dan pengguna nomor kofkom. Yang terbaru dari aplikasi M-Kofkom, kini Anda dapat bertransaksi dan membayarnya dengan dompet digital/e-wallet. Pastikan Anda menggunakan aplikasi M-Kofkom versi terbaru dan sistem operasi pada ponsel Anda mendukung.Kini beli kuota/pulsa bisa lebih praktis dan aman menggunakan dompet digital/e-wallet di aplikasi M-Kofkom. Namun dalam beberapa kejadian, ditemukan saldo dompet digital pelanggan sudah berkurang tetapi kuota/pulsa belum diterima. Jika Anda sedang mengalami hal serupa, tidak perlu khawatir, cukup pastikan beberapa hal berikut: Pastikan nomor yang dimasukkan sudah sesuai. Jika Anda hendak mengirimkan hadiah dalam bentuk pulsa/paket, pastikan nomor yang Anda masukkan sudah benar. Pastikan nomor pelanggan yang digunakan dalam keadaan aktif. Nomor yang akan diisikan pulsa/paket harus dalam keadaan aktif dan tidak dalam masa tenggang/terblokir. Pastikan Anda berada dalam wilayah dengan jaringan internet yang stabil atau memiliki paket internet. Lakukan pengecekan secara berkala apabila sistem sibuk. Jika sistem sedang sibuk atau bermasalah, sangat mungkin kuota/pulsa yang dibeli tidak langsung diterima. Anda dapat menunggu 1x24 jam namun jika sedang terburu-buru, Anda juga dapat segera menghubungi Call Center 999. Pastikan Anda memberikan data nomor ponsel yang digunakan serta rincian kejadian.Kemungkinan Anda akan ditawarkan penyelesaian dengan pengembalian saldo atau menghubungi mitra pembayaran terkait: Bagi pengguna OVO atau GoPay, apabila saldo sudah terpotong namun paket/pulsa belum diterima, maka kofkom dapat membantu untuk melakukan pengembalian saldo. Jika Anda menggunakan dompet digital selain OVO atau GoPay, maka kofkom dapat membantu penyelesaian dengan mengarahkan pelanggan untuk menghubungi mitra pembayaran terkait agar dapat dibantu proses pengembalian saldo."
+              },
+              {
+                "type": "statement",
+                "title": "Saldo e-wallet sudah terpotong namun status tagihan kofkom Halo belum berubah",
+                "answer": "Demi layanan yang maksimal tanpa gangguan, tentu Anda perlu membayar tagihan kofkom Halo yang digunakan. Untuk memudahkan pembayaran tagihan rutin kofkom Halo, aplikasi M-Kofkom menyediakan berbagai metode pembayaran salah satunya dompet digital/e-wallet. Pastikan aplikasi M-Kofkom yang Anda gunakan merupakan versi terbaru dan sistem operasi ponsel juga mendukung.Bayar tagihan Halo jadi lebih mudah dan aman dengan dompet digital/e-wallet di aplikasi M-Kofkom.Namun dalam beberapa kejadian, ditemukan saldo dompet digital pelanggan sudah berkurang tetapi kuota/pulsa belum diterima. Jika Anda sedang mengalami hal serupa, tidak perlu khawatir, cukup pastikan beberapa hal berikut: Tagihan sudah tercetak dan e-bill sudah diterima. Pastikan Anda sudah menerima e-bill untuk membayar tagihan kofkom Halo yang baru. Pastikan Anda berada dalam wilayah dengan jaringan internet yang stabil atau memiliki paket internet. Sistem jaringan di wilayah Anda dalam kondisi baik. Jika sistem sedang sibuk atau bermasalah, sangat mungkin tagihan yang dibayarkan tidak langsung masuk. Anda dapat menunggu 1x24 jam namun jika sedang terburu-buru, Anda juga dapat segera menghubungi Call Center 999. Pastikan Anda memberikan data nomor ponsel yang digunakan serta rincian kejadian. Kemungkinan Anda akan ditawarkan penyelesaian dengan pengembalian saldo atau menghubungi mitra pembayaran terkait: Bagi pengguna OVO atau GoPay, apabila saldo sudah terpotong namun paket/pulsa belum diterima, maka kofkom dapat membantu untuk melakukan pengembalian saldo. Jika Anda menggunakan dompet digital selain OVO atau GoPay, maka kofkom dapat membantu penyelesaian dengan mengarahkan pelanggan untuk menghubungi mitra pembayaran terkait agar dapat dibantu proses pengembalian saldo."
+              },
+              {
+                "type": "statement",
+                "title": "Tidak menerima cashback yang sesuai promo",
+                "answer": "Salah satu aplikasi penunjang yang dapat Anda gunakan dengan maksimal sebagai pengguna kofkom adalah aplikasi M-Kofkom. Melalui M-Kofkom, Anda dapat mengecek pulsa, membeli paket, hingga membayar tagihan kofkom Halo. Anda juga berkesempatan mendapatkan berbagai keuntungan dan promo yang menarik melalui aplikasi M-Kofkom. Gunakan M-Kofkom untuk berbagai kebutuhan komunikasi Anda dan nikmati berbagai kemudahan dan keuntungan dengan berbagai promo spesial. Namun dalam beberapa kejadian, ada pelanggan yang tidak menerima cashback sesuai dengan promo yang dijanjikan pada aplikasi M-Kofkom. Jika Anda sedang mengalami kendala tersebut, Anda perlu memastikan hal-hal berikut ini: Pastikan masa berlaku promo yang diikuti. Sangat mungkin promo yang diikuti sudah kedaluwarsa, sudah diganti, atau kuotanya terbatas. Promo memang dapat sewaktu-waktu diganti dan habis tergantung syarat dan ketentuan yang berlaku, sehingga Anda diharapkan rutin melakukan pengecekan saat akan menggunakan promo. Anda mengikuti promo yang tidak sesuai. Beberapa promo dibuat untuk pelanggan tertentu. Pastikan kembali apakah nomor Anda sesuai dan dapat mengikuti promo tersebut. Pastikan hal-hal lain, seperti kuota internet, sistem saat penukaran (sibuk/bermasalah), hingga pembaruan aplikasi. Hal ini juga dapat berpengaruh saat terjadi transaksi penukaran. Anda dapat menghubungi CS dari mitra pembayaran yang digunakan untuk mendapatkan penjelasan lebih lanjut terkait kendala cashback yang tidak sesuai dengan promo. Ceritakan dengan detail promo apa yang Anda gunakan dan cashback yang diterima."
+              },
+              {
+                "type": "statement",
+                "title": "Tidak bisa melakukan pembayaran dengan e-wallet",
+                "answer": "Bagi pengguna aplikasi M-Kofkom, Anda dapat membeli pulsa, paket, atau bayar tagihan melalui aplikasi dengan beragam metode pembayaran, termasuk melalui dompet digital atau e-wallet. Ada beragam dompet digital atau e-wallet yang bisa digunakan untuk membayar pulsa, paket, atau tagihan Halo Anda di aplikasi M-Kofkom. Namun jika Anda tidak bisa melakukan pembayaran melalui e-wallet, Anda tidak perlu khawatir. Pastikan terlebih dahulu hal-hal berikut: Anda membeli pulsa atau paket data yang memiliki opsi pembayaran menggunakan e-wallet.Pada aplikasi M-Kofkom, tidak semua nominal pulsa dan paket data memiliki opsi pembayaran menggunakan dompet digital. Hanya pembelian nominal tertentu saja yang dapat menggunakan pembayaran dengan e-wallet. Anda berada di luar wilayah jangkauan internet atau paket internet sudah habis. Pastikan Anda berada dalam wilayah jangkauan internet saat bertransaksi. Periksa juga apakah Anda masih memiliki paket internet. Sistem operasi ponsel yang digunakan tidak mendukung pembaruan aplikasi M-Kofkom.Untuk dapat menikmati layanan terbaru dari aplikasi M-Kofkom, pastikan ponsel Anda memiliki sistem operasi minimal Android 7 (Nougat) atau iOS 11. Anda dapat membersihkan cache aplikasi dan melakukan instalasi/pemasangan ulang. Sistem sedang sibuk/bermasalah Ini sangat mungkin terjadi apabila di wilayah Anda sedang terjadi gangguan, misalnya pemadaman listrik.Jika sudah memastikan hal-hal di atas, namun e-wallet masih belum bisa digunakan sebagai alat pembayaran, Anda dapat segera menghubungi Call Center 999. Pastikan Anda juga melampirkan informasi detail terkait kendala yang dihadapi, seperti nomor yang digunakan, ponsel, dan sistem operasi yang digunakan."
+              }
+            ]
+          },
+          {
+            "title": "Tidak dapat login ke M-Kofkom",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Tidak menerima SMS berisikan link login aplikasi M-Kofkom",
+                "answer": "Anda yang memiliki aplikasi M-Kofkom mungkin pernah mengalami kendala tidak dapat masuk dan mengakses layanan aplikasi. Namun jangan khawatir, Anda dapat tetap login aplikasi setelah memastikan terlebih dahulu spam folder atau inbox folder.Hal ini dikarenakan dalam beberapa kejadian ditemukan pelanggan yang mengunduh aplikasi Truecaller atau aplikasi filter spam dan sejenisnya sehingga SMS yang berisi tautan login M-Kofkom dengan sender TSEL-APPS dianggap sebagai spam.Sangat mungkin terjadi Anda sebenarnya menerima SMS, namun karena dianggap spam, maka tidak ada notifikasi dan merasa tidak menerima SMS untuk melakukan login. Namun, jika Anda masih belum bisa login dan tidak mengunduh aplikasi filter spam apa pun, Anda dapat mengirimkan screen recording saat melakukan login ke aplikasi M-Kofkom lalu kirim ke email cs@kofkom.com. Nantinya penyelesaian akan dibantu oleh Customer Service terkait."
+              },
+              {
+                "type": "statement",
+                "title": "Tidak bisa login menggunakan media sosial atau Google",
+                "answer": "Aplikasi M-Kofkom adalah layanan berbentuk aplikasi yang diluncurkan untuk memberikan kemudahan dalam mengelola dan mengakses akun serta layanan melalui smartphone. Untuk bisa mengakses M-Kofkom, Anda harus login terlebih dahulu. Login bisa dilakukan salah satunya dengan akun media sosial atau akun Google yang sebelumnya sudah Anda miliki. Namun, jika Anda mengalami kendala ketika login menggunakan akun media sosial atau Google, mohon cek beberapa hal berikut: Pastikan akun media sosial atau Google Anda sudah terkoneksi ke M-Kofkom. Caranya, Anda masuk ke 'Manajemen Akun', pilih 'Profil Saya', lalu pilih 'Hubungkan dengan Akun Sosial'.Pastikan Anda berada di wilayah dengan jaringan internet yang stabil. Ketidakstabilan jaringan akan menghambat dan mengganggu proses login ke dalam M-Kofkom. Pastikan Anda sudah memperbarui aplikasi M-Kofkom. Apabila aplikasi belum diperbarui ke versi terbarunya, kemungkinan Anda akan menghadapi masalah saat akan login ke dalam aplikasi tersebut.Saat memilih untuk login menggunakan akun media sosial atau Google Anda, pastikan username dan password yang Anda ketik sudah sesuai. Kesalahan atau perbedaan saat mengisi username dan password akan menyebabkan Anda tidak dapat mengakses aplikasi M-Kofkom.Untuk bisa mengakses M-Kofkom versi terbaru, pastikan sistem operasi smartphone Anda sudah versi terbaru. Untuk iOS, M-Kofkom hanya bisa diakses minimal menggunakan versi iOS 11, sementara untuk Android harus minimal versi Android 7 (Nougat).Jika Anda telah melakukan pengecekan terhadap kemungkinan di atas dan masih tidak bisa login menggunakan akun media sosial atau Google Anda, silakan menghubungi CS di 999 dan membuat laporan atas kendala yang dihadapi."
+              },
+              {
+                "type": "statement",
+                "title": "Tidak bisa masuk M-Kofkom (langsung error atau tertutup sendiri)",
+                "answer": "Salah satu aplikasi penunjang yang dapat Anda gunakan dengan maksimal sebagai pengguna kofkom adalah aplikasi M-Kofkom. Melalui satu aplikasi ini, Anda dapat melakukan pengecekan pulsa, pembelian paket, hingga pembayaran tagihan kofkom Halo. Namun, dalam beberapa kejadian, ditemukan pelanggan yang tidak dapat masuk ke dalam aplikasi M-Kofkom. Jika Anda sedang mengalami kendala tersebut, Anda perlu memperhatikan kemungkinan-kemungkinan berikut ini: Anda mungkin melakukan log in dengan nomor dan ponsel yang berbeda. Untuk akses log in ke aplikasi M-Kofkom, dibutuhkan tautan yang akan dikirim ke nomor yang digunakan untuk pendaftaran. Apabila tautan ini tidak dibuka, Anda tidak dapat mengakses aplikasi M-Kofkom pada ponsel. Anda menggunakan tautan yang sudah kedaluwarsa. Jika Anda sudah mendapatkan tautan, segera gunakan langsung saat itu juga. Apabila tidak, Anda wajib untuk mengulang proses log in. Anda menggunakan aplikasi M-Kofkom versi lama. Untuk meningkatkan layanan aplikasi M-Kofkom, Anda perlu memperbarui aplikasi. Anda sedang berada di wilayah yang tidak terjangkau jaringan internet atau kuota internet Anda habis. Selalu pastikan Anda terhubung dengan jaringan internet untuk mengakses aplikasi M-Kofkom. Aplikasi M-Kofkom yang Anda gunakan sedang error. Anda bisa mencoba membersihkan cache aplikasi terlebih dahulu, lalu memasang ulang aplikasi (hapus lalu instal ulang). Sistem di wilayah tersebut sedang sibuk atau bermasalah. Hal ini sangat mungkin terjadi apabila di wilayah Anda sedang terjadi pemadaman listrik. Jika hal-hal tersebut sudah Anda pastikan dan masih tidak bisa masuk ke dalam aplikasi M-Kofkom, Anda dapat menghubungi Call Center 999 dan jelaskan secara rinci keluhan Anda melalui CS. Pastikan Anda menyebut nomor yang digunakan dengan benar."
+              },
+              {
+                "type": "statement",
+                "title": "Tidak bisa login menggunakan email",
+                "answer": "Aplikasi M-Kofkom adalah layanan berbentuk aplikasi yang diluncurkan untuk memberikan kemudahan dalam mengelola dan mengakses akun serta layanan melalui smartphone. Untuk bisa mengakses M-Kofkom, Anda harus login terlebih dahulu. Login bisa dilakukan salah satunya dengan menggunakan alamat email yang Anda miliki. Namun, Anda mungkin mengalami kendala dalam melakukan login dengan alamat email tersebut. Mohon cek beberapa hal berikut: Pastikan akun email Anda sudah didaftarkan dan terverifikasi. Caranya, pilih 'Manajemen Akun', lalu pilih 'Profil Saya' di aplikasi M-Kofkom. Pastikan Anda masih memiliki akses terhadap email yang akan digunakan untuk mendaftar. Pastikan pulsa serta kuota internet yang Anda miliki masih cukup. Apabila pulsa atau kuota internet Anda sudah habis, Anda akan kesulitan login ke dalam M-Kofkom dengan menggunakan alamat email yang Anda miliki. Pastikan Anda berada di wilayah dengan jaringan yang stabil. Ketidakstabilan jaringan akan menghambat dan mengganggu akses Anda saat login ke dalam M-Kofkom. Pastikan Anda sudah memperbarui aplikasi M-Kofkom. Apabila aplikasi belum diperbarui ke versi terbarunya, kemungkinan Anda akan menghadapi masalah saat akan login ke dalam aplikasi tersebut. Jika Anda telah melakukan pengecekan terhadap kemungkinan di atas dan masih tidak bisa login menggunakan alamat email yang Anda miliki, Anda dapat menghubungi CS di 999 dan membuat laporan atas kendala yang dihadapi."
+              },
+              {
+                "type": "statement",
+                "title": "Link SMS tidak bisa digunakan",
+                "answer": "Untuk memaksimalkan penggunaan layanan kofkom, Anda sebaiknya memiliki aplikasi M-Kofkom pada ponsel Anda. Aplikasi ini sangat membantu Anda untuk membeli dan mengecek kuota, pulsa, hingga membayar tagihan kofkom Halo. Jika ingin mengaktifkan akun baru di M-Kofkom, Anda dapat melakukan pendaftaran melalui berbagai cara. Nantinya Anda akan menerima SMS berisi link untuk validasi. Link ini sebagai pengganti dari OTP, berupa sebuah tautan yang ketika diketuk, validasi akun Anda berhasil. Dalam beberapa kasus, pelanggan tidak dapat menggunakan link/tautan yang sudah diterima. Berikut penjelasannya: Pelanggan mendapatkan informasi “Tidak valid atau kedaluwarsa”. Jika Anda sedang mengalami masalah seperti ini, kemungkinannya tautan yang sudah diterima tidak langsung digunakan. Anda dapat melakukan login ulang untuk mendapatkan tautan yang baru. Setelahnya, tautan harus segera digunakan saat itu juga. Mendapatkan informasi “Terjadi kesalahan, silakan ulangi kembali”. Jika Anda sedang mengalami kendala ini, kemungkinannya sistem saat Anda melakukan login sedang sibuk/bermasalah. Anda dapat menunggu beberapa saat, lalu lakukan prosedur login yang baru. Ingat, pastikan Anda menggunakan tautan yang baru.Link SMS mengarahkan ke web browser dengan informasi “Halaman tidak ditemukan”. Kalau Anda mengalami hal ini, kemungkinannya Anda tidak terhubung dengan internet. Anda perlu memastikan masih memiliki kuota internet atau berada di wilayah dengan jaringan internet yang stabil. Setelahnya, silakan melakukan login ulang.Jika dalam kurun waktu 1x24 jam setelah percobaan pertama Anda masih mengalami kendala yang sama, Anda dapat menghubungi Customer Service melalui Call Center 999. Silakan jelaskan dengan rinci kendala yang dihadapi dan CS akan senang hati membantu menyelesaikan masalah Anda."
+              },
+              {
+                "type": "statement",
+                "title": "Selalu diarahkan untuk login ulang",
+                "answer": "Salah satu aplikasi penunjang yang dapat Anda gunakan dengan maksimal sebagai pengguna kofkom adalah aplikasi M-Kofkom. Melalui satu aplikasi ini, Anda dapat melakukan pengecekan pulsa, pembelian paket, hingga pembayaran tagihan kofkom Halo.Namun, dalam beberapa kejadian, pelanggan tidak dapat masuk ke dalam aplikasi M-Kofkom dan selalu diarahkan untuk melakukan login ulang. Jika Anda mengalami hal serupa, kemungkinannya sistem sedang sibuk/bermasalah. Dalam beberapa kejadian, jika wilayah Anda sedang mati listrik juga akan memengaruhi sistem. Anda dapat menunggu beberapa saat untuk melakukan login ulang. Kemungkinan lainnya, aplikasi M-Kofkom yang Anda gunakan sedang error. Anda bisa mencoba membersihkan cache aplikasi terlebih dahulu, lalu memasang ulang aplikasi (hapus lalu instal ulang). Jika dalam kurun waktu 1x24 jam setelah percobaan pertama Anda masih mengalami kendala yang sama, Anda dapat menghubungi Customer Service melalui Call Center 999. Silakan Anda jelaskan dengan rinci kendala yang dihadapi dan CS akan senang hati membantu menyelesaikan masalah Anda."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Jaringan",
+        "subcategories": [
+          {
+            "title": "Tidak bisa terkoneksi Internet",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Pastikan Anda masih memiliki pulsa yang cukup atau telah membayar tagihan",
+                "answer": "Isi pulsa atau bayar tagihan Anda melalui aplikasi Mykofkom, MyGraPARI, ROTS kofkom atau tempat lainnya."
+              },
+              {
+                "type": "statement",
+                "title": "Pastikan Anda memiliki kuota Internet",
+                "answer": "Cek sisa kuota Anda melalui aplikasi Mykofkom, situs web Mykofkom, UMB di *888#, atau ROTS kofkom dengan cara ketik 'Cek Kuota'. Jika Anda tidak memiliki kuota, silakan membeli paket di aplikasi Mykofkom, situs web Mykofkom, UMB *888# atau  ROTS kofkom. "
+              },
+              {
+                "type": "statement",
+                "title": "Cara Setting APN kofkom",
+                "answer": "Pastikan APN di ponsel Anda sudah terkonfigurasi dengan benar. Pengaturan APN Anda harus dikonfigurasi ke ‘Internet’ dengan username dan password yang dikosongkan. Ikuti petunjuk di bawah ini untuk Pengaturan APN 4G kofkom: Setting APN di ponsel Android: Settings > Mobile Network Setting > Access Point Names > Isi pengaturan APN baru Anda. Ketik ‘Internet’ dan kosongkan username serta password Anda. Setting APN di ponsel iOS: Menu Settings > Cellular > Cellular Data Options > Cellular Data Network, lalu isi pengaturan APN Anda"
+              },
+              {
+                "type": "statement",
+                "title": "Refresh Jaringan",
+                "answer": "Refresh jaringan Anda dengan cara Airplane Mode (On, kemudian Off kan kembali). On, untuk mengaktifkan Mode dan Off untuk mematikan Mode. Pastikan memilih Mode jaringan yang single network 2G/3G/4G only, dan coba di Perangkat yang lain."
+              },
+              {
+                "type": "statement",
+                "title": "Pindah lokasi",
+                "answer": "Jika Anda mengakses internet dari dalam gedung, cobalah pindah ke bagian lain dari gedung yang memiliki koneksi jaringan lebih kuat. Misalnya, pindah dari basement ke area terbuka."
+              },
+              {
+                "type": "statement",
+                "title": "Hubungi kami",
+                "answer": "Apabila Anda masih mengalami kendala yang sama, jangan ragu untuk menghubungi kofkom di kanal-kanal berikut: Facebook Messenger: tsel.me/fbV2 Telegram: tsel.me/telegramVA2  Situs Web: www.kofkom.com Aplikasi Mykofkom: my.kofkom.com/app/chatbot Facebook kofkom Twitter @kofkom Email : cs@kofkom.co.id Call Center 999"
+              }
+            ]
+          },
+          {
+            "title": "Tidak bisa browsing Internet",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Pastikan Anda masih memiliki pulsa yang cukup atau telah membayar tagihan",
+                "answer": "Isi pulsa atau bayar tagihan Anda melalui aplikasi Mykofkom, MyGraPARI, ROTS kofkom atau tempat lainnya."
+              },
+              {
+                "type": "statement",
+                "title": "Pastikan Anda memiliki kuota Internet",
+                "answer": "Cek sisa kuota Anda melalui aplikasi Mykofkom, situs web Mykofkom, UMB di *888#, atau ROTS kofkom dengan cara ketik 'Cek Kuota'. Jika Anda tidak memiliki kuota, silakan membeli paket di aplikasi Mykofkom, situs web Mykofkom, UMB *888# atau  ROTS kofkom. "
+              },
+              {
+                "type": "statement",
+                "title": "Cara Setting APN kofkom",
+                "answer": "Pastikan APN di ponsel Anda sudah terkonfigurasi dengan benar. Pengaturan APN Anda harus dikonfigurasi ke ‘Internet’ dengan username dan password yang dikosongkan. Ikuti petunjuk di bawah ini untuk Pengaturan APN 4G kofkom: Setting APN di ponsel Android: Settings > Mobile Network Setting > Access Point Names > Isi pengaturan APN baru Anda. Ketik ‘Internet’ dan kosongkan username serta password Anda. Setting APN di ponsel iOS: Menu Settings > Cellular > Cellular Data Options > Cellular Data Network, lalu isi pengaturan APN Anda"
+              },
+              {
+                "type": "statement",
+                "title": "Refresh Jaringan",
+                "answer": "Refresh jaringan Anda dengan cara Airplane Mode (On, kemudian Off kan kembali). On, untuk mengaktifkan Mode dan Off untuk mematikan Mode. Pastikan memilih Mode jaringan yang single network 2G/3G/4G only, dan coba di Perangkat yang lain."
+              },
+              {
+                "type": "statement",
+                "title": "Pindah lokasi",
+                "answer": "Jika Anda mengakses internet dari dalam gedung, cobalah pindah ke bagian lain dari gedung yang memiliki koneksi jaringan lebih kuat. Misalnya, pindah dari basement ke area terbuka."
+              },
+              {
+                "type": "statement",
+                "title": "Pastikan situs web yang Anda kunjungi tidak bermasalah",
+                "answer": "Jika Anda mengalami masalah hanya ketika browsing saja dan tidak pada saat menggunakan aplikasi lain, pastikan situs web yang Anda kunjungi tidak bermasalah (seperti traffic tinggi, terblokir, atau sedang dalam pemeliharaan)."
+              },
+              {
+                "type": "statement",
+                "title": "Hubungi kami",
+                "answer": "Apabila Anda masih mengalami kendala yang sama, jangan ragu untuk menghubungi kofkom di kanal-kanal berikut: Facebook Messenger: tsel.me/fbV2 Telegram: tsel.me/telegramVA2  Situs Web: www.kofkom.com Aplikasi Mykofkom: my.kofkom.com/app/chatbot Facebook kofkom Twitter @kofkom Email : cs@kofkom.co.id Call Center 999"
+              }
+            ]
+          },
+          {
+            "title": "Koneksi Internet Lambat",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Pastikan Anda memiliki kuota Internet",
+                "answer": "Cek sisa kuota Anda melalui aplikasi Mykofkom, situs web Mykofkom, UMB di *888#, atau ROTS kofkom dengan cara ketik 'Cek Kuota'. Jika Anda tidak memiliki kuota, silakan membeli paket di aplikasi Mykofkom, situs web Mykofkom, UMB *888# atau  ROTS kofkom. "
+              },
+              {
+                "type": "statement",
+                "title": "Refresh Jaringan",
+                "answer": "Refresh jaringan Anda dengan cara Airplane Mode (On, kemudian Off kan kembali). On, untuk mengaktifkan Mode dan Off untuk mematikan Mode. Pastikan memilih Mode jaringan yang single network 2G/3G/4G only, dan coba di Perangkat yang lain."
+              },
+              {
+                "type": "statement",
+                "title": "Pindah lokasi",
+                "answer": "Jika Anda mengakses internet dari dalam gedung, cobalah pindah ke bagian lain dari gedung yang memiliki koneksi jaringan lebih kuat. Misalnya, pindah dari basement ke area terbuka."
+              },
+              {
+                "type": "statement",
+                "title": "Cek aplikasi dan situs web",
+                "answer": "Jika masalah ini hanya muncul ketika mengakses salah satu aplikasi atau situs web, pastikan bahwa tidak ada masalah pada aplikasi atau situs web tersebut. Cek hal tersebut dengan menggunakan aplikasi lain dan mengunjungi situs web lainnya."
+              },
+              {
+                "type": "statement",
+                "title": "Hubungi kami",
+                "answer": "Apabila Anda masih mengalami kendala yang sama, jangan ragu untuk menghubungi kofkom di kanal-kanal berikut: Facebook Messenger: tsel.me/fbV2 Telegram: tsel.me/telegramVA2  Situs Web: www.kofkom.com Aplikasi Mykofkom: my.kofkom.com/app/chatbot Facebook kofkom Twitter @kofkom Email : cs@kofkom.co.id Call Center 999"
+              }
+            ]
+          },
+          {
+            "title": "Layanan tidak bisa digunakan setelah aktivasi",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Cek konfirmasi SMS aktivasi paket",
+                "answer": "Pastikan Anda menerima konfirmasi SMS berisi pemberitahuan bahwa paket sudah aktif dan dapat digunakan. "
+              },
+              {
+                "type": "statement",
+                "title": "Cek sisa pulsa atau tagihan saat ini",
+                "answer": "Pengguna Prabayar: Cek apakah biaya aktivasi paket telah dipotong dari pulsa Anda. Pengguna Pascabayar:Pastikan tagihan saat ini mencakup biaya aktivasi paket Anda."
+              },
+              {
+                "type": "statement",
+                "title": "Cek status blokir",
+                "answer": "Pastikan nomor Anda tidak terblokir dengan mencoba menghubungi nomor lain. Jika nomor terblokir, Anda akan diinformasikan ketika sedang menelepon."
+              },
+              {
+                "type": "statement",
+                "title": "Cek status paket",
+                "answer": "Cek sisa kuota Anda melalui aplikasi Mykofkom, situs web Mykofkom, UMB di *888#, atau ROTS kofkom dengan cara ketik 'Cek Kuota'. Jika Anda tidak memiliki kuota, silakan membeli paket di aplikasi Mykofkom, situs web Mykofkom, UMB *888# atau  ROTS kofkom."
+              },
+              {
+                "type": "statement",
+                "title": "Restart ponsel",
+                "answer": "Jika langkah-langkah di atas masih belum berhasil mengatasi masalah, restart ponsel Anda dan coba akses kembali layanan yang sudah diaktifkan."
+              },
+              {
+                "type": "statement",
+                "title": "Hubungi kami",
+                "answer": "Apabila Anda masih mengalami kendala yang sama, jangan ragu untuk menghubungi kofkom di kanal-kanal berikut: Facebook Messenger: tsel.me/fbV2 Telegram: tsel.me/telegramVA2  Situs Web: www.kofkom.com Aplikasi Mykofkom: my.kofkom.com/app/chatbot Facebook kofkom Twitter @kofkom Email : cs@kofkom.co.id Call Center 999"
+              }
+            ]
+          },
+          {
+            "title": "Nomor tidak bisa dihubungi",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Pastikan Nomor anda telah terdaftar",
+                "answer": "Pastikan Anda sudah melakukan registrasi secara mandiri dengan mengirimkan SMS ke 4444 dengan format: REG<spasi>NIK#Nomor KK# Contoh: REG 1234567890123456#3201060401130027# atau, Untuk Pelanggan Lama kofkom dengan format: ULANG<spasi>NIK#Nomor KK# Contoh: ULANG 1234567890123456#3201060401130027#"
+              },
+              {
+                "type": "statement",
+                "title": "Pastikan nomor Anda telah sukses diaktifkan",
+                "answer": "Periksa apakah Anda bisa melakukan panggilan atau SMS ke nomor lain. Pastikan ponsel Anda terhubung dengan jaringan kofkom Apabila masih terkendala, dapat dibantu didaftarkan melalui GraPARI terdekat dengan menyiapkan: e-KTP dan Kartu Keluarga asli untuk WNI Paspor/KITAP/KITAS untuk WNA"
+              },
+              {
+                "type": "statement",
+                "title": "Hubungi kami",
+                "answer": "Apabila Anda masih mengalami kendala yang sama, jangan ragu untuk menghubungi kofkom di kanal-kanal berikut: Facebook Messenger: tsel.me/fbV2 Telegram: tsel.me/telegramVA2  Situs Web: www.kofkom.com Aplikasi Mykofkom: my.kofkom.com/app/chatbot Facebook kofkom Twitter @kofkom Email : cs@kofkom.co.id Call Center 999"
+              }
+            ]
+          },
+          {
+            "title": "Tidak dapat menelpon",
+            "entries": [
+              {
+                "type": "statement",
+                "title": "Pastikan Anda masih memiliki pulsa yang cukup atau telah membayar tagihan",
+                "answer": "Isi pulsa atau bayar tagihan Anda melalui aplikasi Mykofkom, MyGraPARI, ROTSkofkom atau tempat lainnya. "
+              },
+              {
+                "type": "statement",
+                "title": "Refresh jaringan",
+                "answer": "Refresh jaringan Anda dengan cara Airplane Mode (On, kemudian Off kan kembali). On, untuk mengaktifkan Mode dan Off untuk mematikan Mode. Pastikan memilih Mode jaringan yang single network 2G/3G/4G only, dan coba di Perangkat yang lain."
+              },
+              {
+                "type": "statement",
+                "title": "Cek keterangan pada panggilan Anda",
+                "answer": "“Nomor yang Anda hubungi sedang tidak aktif atau berada di luar jangkauan” Telepon tidak dapat dilakukan jika nomor yang dituju sedang tidak aktif atau berada di luar jangkauan. “Nomor yang Anda hubungi sedang sibuk” Telepon tidak dapat dilakukan jika nomor yang dituju sedang menelepon, mengaktifkan ‘call divert’ atau memblokir nomor Anda. “Nomor yang Anda hubungi tidak dapat dapat dihubungi” Pastikan fitur FDN (Fix Dialling Number) atau nomor panggilan tetap dalam keadaan mati.“Anda sudah mencapai limit untuk melakukan telepon” Jika Anda pengguna pascabayar, pastikan limit Anda masih mencukupi untuk melakukan telepon dengan cek limit melalui UMB *111#. Jika Anda sudah mencapai limit, hubungi kami di cs@kofkom.co.id untuk mengajukan peningkatan limit pemakaian."
+              },
+              {
+                "type": "statement",
+                "title": "Pastikan ponsel Anda sedang tidak bermasalah",
+                "answer": "Jika Anda sudah mencoba solusi di atas dan tetap mengalami masalah, coba untuk memindahkan kartu SIM ke ponsel lain lalu lakukan telepon. Jika telepon berhasil dari ponsel lain, artinya ponsel Anda sedang bermasalah. JIka demikian, hubungi pusat pelayanan ponsel Anda."
+              },
+              {
+                "type": "statement",
+                "title": "Hubungi kami",
+                "answer": "Apabila Anda masih mengalami kendala yang sama, jangan ragu untuk menghubungi kofkom di kanal-kanal berikut: Facebook Messenger: tsel.me/fbV2 Telegram: tsel.me/telegramVA2  Situs Web: www.kofkom.com Aplikasi Mykofkom: my.kofkom.com/app/chatbot Facebook kofkom Twitter @kofkom Email : cs@kofkom.co.id Call Center 999"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
